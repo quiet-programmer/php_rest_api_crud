@@ -9,6 +9,5 @@ and yes the code is well structured and also added useful comments to help begin
 
 <h1><b>my name is samuel owusu and im a backend developer </b><h1>
 
-
-	im a participate of this project.
+	im part of this project.
 
