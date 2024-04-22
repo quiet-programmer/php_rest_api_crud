@@ -10,3 +10,6 @@
     //Instantiate Db and Connect
     $database = new Database();
     $db = $database->connect();
+
+    //below are going to be the function for adding comments
+    

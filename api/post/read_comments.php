@@ -12,5 +12,5 @@
     $database = new Database();
     $db = $database->connect();
 
-  // below are going to be the funtion for adding comments
-  // below are going to be the function for calculating comments
+  // below are going to be the funtion for reading comments
+  
