@@ -32,3 +32,5 @@
 
     //make json
     print_r(json_encode($post_arr));
+    //read single php
+    
